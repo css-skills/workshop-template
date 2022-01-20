@@ -9,32 +9,9 @@ author:
     affiliation_url: https://macss.uchicago.edu
 date: "DATE WHEN WORKSHOP WILL BE HELD"
 creative_commons: CC BY-NC
-output:
-  distill::distill_article:
-    keep_md: true
+repository_url: https://github.com/css-skills/REPO
+output: distill::distill_article
 ---
 
-```{r setup, include=FALSE}
-knitr::opts_chunk$set(echo = FALSE)
+```{r echo = FALSE, child = "README.md"}
 ```
-
-## Overview
-
-
-## Objectives
-
-
-## Audience
-
-
-## Location
-
-Room 295 in [1155 E 60th St](https://goo.gl/maps/7n7wDsd9mjnfRBtR8).
-
-
-## Prework
-
-
-## Links
-
-
